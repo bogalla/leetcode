@@ -23,3 +23,4 @@ def decode(message_file) :
 
 if __name__ == '__main__':
     print(decode("message2.txt"))
+    print("done")
